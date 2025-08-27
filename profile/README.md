@@ -53,7 +53,7 @@
 ## 📁 기술 스택
 | 영역 | 기술 |
 |------|------|
-| Frontend | Kotlin |
+| Android | Kotlin, Compose, MVVM, Clean Architecture, Retrofit, Hilt |
 | Backend | Spring Boot, JPA, MySQL |
 | AI | Python, FastAPI |
 | Infra | Docker, Nginx |
