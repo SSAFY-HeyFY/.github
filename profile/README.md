@@ -54,9 +54,9 @@
 | 영역 | 기술 |
 |------|------|
 | Android | Kotlin, Compose, MVVM, Clean Architecture, Retrofit, Hilt |
-| Backend | Spring Boot, JPA, MySQL |
+| Backend | Spring Boot, JPA, MySQL, Redis |
 | AI | Python, FastAPI |
-| Infra | Docker, Nginx |
+| Infra | Docker, Jenkins, Prometheus, Loki, Grafana |
 | 협업 | Git, Notion, Figma, Slack |
 
 ## 🔗 활용 API
