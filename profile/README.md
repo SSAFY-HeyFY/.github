@@ -14,7 +14,7 @@
 ## 👤 팀원 소개
 | 박재홍 | 김승상 | 엄유상 | 김해린 | 박대얼 |
 |:------:|:------:|:------:|:------:|:------:|
-| <a href='https://github.com/prk4224'><img src='https://avatars.githubusercontent.com/u/83493143?v=4' width='100px'/></a> | <a href='https://github.com/seungsang2000'><img src='https://avatars.githubusercontent.com/u/74907427?v=4' width='100px'/></a>  | <a href='https://github.com/EomYoosang'><img src='https://avatars.githubusercontent.com/u/53031768?v=4' width='100px'/></a> | <a href='https://github.com/jenny1zzang'><img src='https://avatars.githubusercontent.com/u/108577676?v=4&size=64' width='100px'/></a> | <a href='https://github.com/uioo1'><img src='https://avatars.githubusercontent.com/u/28687099?v=4' width='100px'/></a> |
+| <a href='https://github.com/prk4224'><img src='https://avatars.githubusercontent.com/u/83493143?v=4' width='100px'/></a> | <a href='https://github.com/seungsang2000'><img src='https://avatars.githubusercontent.com/u/74907427?v=4' width='100px'/></a>  | <a href='https://github.com/EomYoosang'><img src='https://avatars.githubusercontent.com/u/53031768?v=4' width='100px'/></a> | <a href='https://github.com/jenny1zzang'><img src='https://avatars.githubusercontent.com/u/108577676?v=4' width='100px'/></a> | <a href='https://github.com/uioo1'><img src='https://avatars.githubusercontent.com/u/28687099?v=4' width='100px'/></a> |
 | 팀장 & FE | BE | BE | BE | AI |
 
 ## 📌 프로젝트 개요
