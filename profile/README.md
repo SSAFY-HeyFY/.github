@@ -17,16 +17,22 @@
 | <a href='https://github.com/prk4224'><img src='https://avatars.githubusercontent.com/u/83493143?v=4' width='100px'/></a> | <a href='https://github.com/seungsang2000'><img src='https://avatars.githubusercontent.com/u/74907427?v=4' width='100px'/></a>  | <a href='https://github.com/EomYoosang'><img src='https://avatars.githubusercontent.com/u/53031768?v=4' width='100px'/></a> | <a href='https://github.com/jenny1zzang'><img src='https://avatars.githubusercontent.com/u/108577676?v=4' width='100px'/></a> | <a href='https://github.com/uioo1'><img src='https://avatars.githubusercontent.com/u/28687099?v=4' width='100px'/></a> |
 | 팀장 & FE | BE | BE | BE | AI |
 
+<br>
+
 ## 📌 프로젝트 개요
 - **프로젝트 명:** HeyFY (헤이파이)  
 - **팀 명:** 싸신사 (싸피 + 신한은행 = 사랑)  
-- **대상:** 한국 대학 외국인 유학생  
+- **대상:** 한국 대학 외국인 유학생
+
+<br>
 
 ## 💡 기획 배경
 - 외국인 유학생 20만 명 시대, 한국 대학 재정과 직결되는 핵심 인구  
-- 환율 변동으로 등록금·생활비에 수십만 원 부담 발생  
+- 환율 변동으로 인해 환전 시 경제적 부담 발생
 - 비자/문화 적응 문제로 한국 생활에 어려움  
 👉 금융 + 생활 + 커뮤니티를 아우르는 온보딩 서비스 필요
+
+<br>
 
 ## 🛠 핵심 기능
 ### 🏦 금융 서비스
@@ -44,11 +50,22 @@
 ### 🧑‍💻 생활 편의
 - 비자 유형별 근무 시간 안내 & 알바 추천  
 - 모바일 외국인 등록증 기능
+  
+<br>
 
 ## 📊 기대 효과
 - 환율 최적화 → 학기당 약 25만 원 절감 효과  
 - 외국인 등록증 기반 금융 접근성 강화  
 - 커뮤니티/멘토링으로 문화 적응과 소속감 증대
+  
+<br>
+
+## 📏 시스템 아키텍처
+<p align='center'>
+    <img src="https://ifh.cc/g/tABowl.jpg">
+</p>
+
+<br>
 
 ## 📁 기술 스택
 | 영역 | 기술 |
@@ -59,6 +76,8 @@
 | Infra | Docker, Jenkins, Prometheus, Loki, Grafana |
 | 협업 | Git, Notion, Figma |
 
+<br>
+
 ## 🔗 활용 API
 - **SSAFY 금융 API**
   - 국내, 외화 계좌정보 및 거래내역 조회
@@ -67,7 +86,8 @@
   - 1원 송금 및 검증
 - **외부 API**
   - 한국수출입은행 Open API
- 
+
+ <br>
  
 ## 📝 커밋 메시지 컨벤션
 
@@ -89,6 +109,7 @@
 -  큰 Task 로 부모 ISSUE 생성
 -  부모 ISSUE 에 맞는 Sub Task 생성 (최대한 작게 나누기)
 
+<br>
 
 ## 🌿 Git Branch 전략
 
