@@ -57,7 +57,7 @@
 | Backend | Spring Boot, JPA, MySQL, Redis |
 | AI | Python, FastAPI |
 | Infra | Docker, Jenkins, Prometheus, Loki, Grafana |
-| 협업 | Git, Notion, Figma, Slack |
+| 협업 | Git, Notion, Figma |
 
 ## 🔗 활용 API
 - **SSAFY 금융 API**
@@ -66,7 +66,7 @@
   - 환율 조회 및 환전 신청
   - 1원 송금 및 검증
 - **외부 API**
-  - 한국수출입은행 환율 데이터
+  - 한국수출입은행 Open API
  
  
 ## 📝 커밋 메시지 컨벤션
