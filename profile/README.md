@@ -1,6 +1,6 @@
 # HeyFy
 
-프로젝트 소개 이미지 첨부
+<img src='https://ifh.cc/g/YRGhBP.jpg' border='0'>
 
 
 외국인 유학생의 한국 대학 생활 적응을 돕는 **온보딩 서비스 (with 금융)**
