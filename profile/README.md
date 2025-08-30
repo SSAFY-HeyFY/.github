@@ -19,6 +19,16 @@
 
 <br>
 
+## 📀 빌드 & 실행 (레포별 가이드로 이동)
+
+| 영역 | 링크 | 
+|---|---|
+| Android | [Android README 바로가기](https://github.com/SSAFY-HeyFY/HeyFY-android#android-build) | 
+| Backend | [Backend README 바로가기](https://github.com/SSAFY-HeyFY/HeyFY-backend#backend-build) | 
+| AI | [AI README 바로가기](https://github.com/SSAFY-HeyFY/HeyFY-backend#ai-build) | 
+
+<br>
+
 ## 📌 프로젝트 개요
 - **프로젝트 명:** HeyFY (헤이파이)  
 - **팀 명:** 싸신사 (싸피 + 신한은행 = 사랑)  
