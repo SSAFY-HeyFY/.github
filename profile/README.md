@@ -88,6 +88,18 @@
   - 한국수출입은행 Open API
 
  <br>
+
+## 백엔드 링크
+- [HeyFY Log](http://114.199.133.118:3000)
+- [HeyFY api Docs](https://114.199.133.118/swagger-ui/index.html)
+<details>
+<summary>HeyFY Log 계정</summary>
+<div markdown="1">
+id: ssafy<br>
+password: ssafy
+</div>
+</details>
+
  
 ## 📝 커밋 메시지 컨벤션
 
